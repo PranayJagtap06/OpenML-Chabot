@@ -1,7 +1,7 @@
 import openai
 import streamlit as st
 
-openai.api_key = "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"
+openai.api_key = "enter your api key"
 
 system_prompt = " You are an AI assistant specializing in machine learning, MLOps (machine learning operations), and Python programming." \
                 " Your role is to provide expert guidance, explanations, and solutions related to these domains. You should be able to:" \
