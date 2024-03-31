@@ -1,8 +1,7 @@
 # OpenML-Chabot
 🤖 Streamlit Chatbot Starter 🚀
 
-
-https://github.com/PranayJagtap06/OpenML-Chabot/assets/66717457/15431997-64f9-43ac-8978-5eb1eb0e5621
+https://github.com/PranayJagtap06/OpenML-Chabot/assets/66717457/dabbabcd-651d-404b-ac3d-2e4946a87899
 
 Looking to build an intelligent chatbot? Look no further! This repository houses a sleek chatbot powered by OpenAI’s language model. 🌟
 
@@ -21,6 +20,4 @@ Looking to build an intelligent chatbot? Look no further! This repository houses
  - Run the main script using Streamlit: `streamlit run openai_ml_chatbot.py`
 
 Interact with the chatbot web app. 🗣️
-
-
 
